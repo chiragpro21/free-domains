@@ -9,5 +9,5 @@ addSubDomain({
   record: {
     CNAME: 'b995a6d2-bb15-4a44-bdcb-7bf2916394c3.id.repl.co',
   },
-  proxy: false,
+  proxy: true,
 })
